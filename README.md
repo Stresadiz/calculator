@@ -1,2 +1,2 @@
 # calculator
-Funcional calculator in js, html and scss
+Funcional calculator in js, html and css
